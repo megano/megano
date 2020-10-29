@@ -10,5 +10,5 @@ Previously Founder of AI Collective, Product Manager for a ML app at Capital One
 - 😄 Pronouns: she/her
 - Fun fact: O'Reilly books are 80% of my book collection & it's my dream to someday be an author 
 
-# What got me interested in data science? #
+#### What got me interested in data science? ####
 I got hooked on data while working at Calit2 on research projects from predicting future fires using satellite imagery to mining research publications to model a research university's expertise. I was in awe of the level of personalization possible with zero user input & how ML could literally save homes & lives. But I had very little programming experience & a large amount of student loans to pay off, so instead of going straight to grad school I went into industry & progressively took on more technical roles.
