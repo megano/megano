@@ -3,7 +3,6 @@ Product leader and hands-on data scientist with 10+ years industry experience ac
 
 **Background:** BS Cognitive Science (HCI)  · Calit2 Research, UCSD · Founded AI Collective (2017) · Deep Learning cert, USF · Data Science cert, Galvanize
  
-
 **What you'll find here:** ML side projects and coursework spanning CNNs, NLP, recommender systems, fraud detection, and health equity data viz. Older work, but the thinking holds.
 
 🔗 [linkedin.com/in/meganororke](https://linkedin.com/in/meganororke)
