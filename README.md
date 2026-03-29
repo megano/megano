@@ -1,14 +1,9 @@
-### Hello there! 👋
+## Megan O'Rorke
+Product leader and hands-on data scientist with 10+ years industry experience across startups and large companies in banking, e-commerce, and healthcare & life sciences. I work at the intersection of humans and AI: designing and building complex solutions that account for how people and technology actually work, not how we hope they'll work. My background in HCI helps me create solutions with an understanding of how the brain actually works and where it breaks down. Coding ML models and ML coursework rebuilding algorithms gave me a deeper understanding of how the "engines" powering AI work not just how to drive the car.
 
-I'm Megan O'Rorke, a Data Scientist living in San Francisco. 
+**Background:** BS Cognitive Science (HCI)  · Calit2 Research, UCSD · Founded AI Collective (2017) · Deep Learning cert, USF · Data Science cert, Galvanize
+ 
 
-Previously Founder of AI Collective, Product Manager for a ML app at Capital One & Research Assistant @ Calit2. I have 10yrs of industry experience at tiny startups & large companies for industries including banking, e-commerce & health. After winding down my startup I'm currently consulting, most recently for a Fortune 100 biotech company.
+**What you'll find here:** ML side projects and coursework spanning CNNs, NLP, recommender systems, fraud detection, and health equity data viz. Older work, but the thinking holds.
 
-- 🌱 I’m learning a bit of deep learning w/fast.ai & how to get models off my laptop with GCP & AWS
-- 👯 I’m looking to collaborate on real-world projects, bioinformatics & ML in the cloud
-- 🤔 I’m looking for help becoming a better Python3 programmer - ping me if you're interested in pair programming!
-- 😄 Pronouns: she/her
-- Fun fact: O'Reilly books are 80% of my book collection & it's my dream to someday be an author 
-
-#### What got me interested in data science? ####
-I got hooked on data while working at Calit2 on research projects from predicting future fires using satellite imagery to mining research publications to model a research university's expertise. I was in awe of the level of personalization possible with zero user input & how ML could literally save homes & lives. But I had very little programming experience & a large amount of student loans to pay off, so instead of going straight to grad school I went into industry & progressively took on more technical roles.
+🔗 [linkedin.com/in/meganororke](https://linkedin.com/in/meganororke)
